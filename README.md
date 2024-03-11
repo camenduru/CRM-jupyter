@@ -21,4 +21,4 @@ https://ml.cs.tsinghua.edu.cn/~zhengyi/CRM/
 ![ezgif-5-9466d28ad1](https://github.com/camenduru/CRM-jupyter/assets/54370274/ac616a95-9157-41ac-a532-0f2193c66283)
 
 ### 🏢 Sponsor
-https://modelslab.com
+https://replicate.com
