@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/CRM-jupyter/blob/main/CRM_jupyter.ipynb) | CRM_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/CRM-jupyter/blob/main/CRM_jupyter.ipynb) | CRM_jupyter (😭 Pro Colab)
 
 ### 🧬 Code
 https://github.com/thu-ml/CRM
